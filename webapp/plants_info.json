@@ -1,0 +1,243 @@
+{
+  "Aloevera": {
+    "short": "🌿 A succulent known for skin healing and cooling.",
+    "edible": "🍃 Inner gel is edible in small amounts.",
+    "medicinal_uses": [
+      "✨ Heals burns and sunburns",
+      "🌱 Reduces inflammation",
+      "💧 Hydrates skin",
+      "🧪 Helps digestion"
+    ],
+    "parts_used": ["Leaf gel", "Latex"],
+    "precautions": "⚠️ Latex is a strong laxative — use carefully."
+  },
+
+  "Amla": {
+    "short": "🍏 One of the richest natural sources of vitamin C.",
+    "edible": "🥗 Fruit eaten raw, pickled, or juiced.",
+    "medicinal_uses": [
+      "🛡 Boosts immunity",
+      "💇 Strengthens hair, prevents greying",
+      "🍽 Supports digestion",
+      "🫀 Good for heart and liver"
+    ],
+    "parts_used": ["Fruit", "Seeds", "Leaves"],
+    "precautions": "⚠️ Too much may upset stomach."
+  },
+
+  "Ashoka": {
+    "short": "🌳 A sacred tree used in women's health remedies.",
+    "edible": "🚫 Not commonly eaten.",
+    "medicinal_uses": [
+      "🌸 Supports reproductive health",
+      "✨ Relieves menstrual cramps",
+      "🧬 Balances hormones"
+    ],
+    "parts_used": ["Bark", "Flowers"],
+    "precautions": "⚠️ Use medicinally with guidance."
+  },
+
+  "Ashwagandha": {
+    "short": "🧠 Famous adaptogen also called Indian Ginseng.",
+    "edible": "🥛 Root powder taken with milk.",
+    "medicinal_uses": [
+      "😌 Reduces stress and anxiety",
+      "💤 Improves sleep",
+      "💪 Boosts strength and stamina",
+      "🛡 Enhances immunity"
+    ],
+    "parts_used": ["Root", "Leaves"],
+    "precautions": "⚠️ Avoid high doses during pregnancy."
+  },
+
+  "Bamboo": {
+    "short": "🎋 Fast-growing plant; shoots are edible.",
+    "edible": "🥢 Tender shoots eaten cooked.",
+    "medicinal_uses": [
+      "🦴 Good for bones",
+      "🔥 Anti-inflammatory"
+    ],
+    "parts_used": ["Shoots", "Leaves", "Stems"],
+    "precautions": "⚠️ Shoots must be cooked properly."
+  },
+
+  "Brahmi": {
+    "short": "🧠 Herb used to boost memory and concentration.",
+    "edible": "🌿 Eaten fresh or as juice/powder.",
+    "medicinal_uses": [
+      "🧘 Reduces stress",
+      "📝 Improves memory",
+      "⚡ Supports brain health"
+    ],
+    "parts_used": ["Whole plant"],
+    "precautions": "✔ Generally safe."
+  },
+
+  "Curry_Leaf": {
+    "short": "🍃 Aromatic leaves used in Indian cooking.",
+    "edible": "🍛 Yes, used in curries.",
+    "medicinal_uses": [
+      "🔥 Boosts digestion",
+      "💇 Supports hair growth",
+      "🩺 Helps control sugar"
+    ],
+    "parts_used": ["Leaves"],
+    "precautions": "✔ Safe."
+  },
+
+  "Gauva": {
+    "short": "🍐 Nutritious fruit tree; leaves medicinal.",
+    "edible": "🥭 Fruit eaten raw or ripe.",
+    "medicinal_uses": [
+      "🛡 Boosts immunity (vitamin C)",
+      "💩 Leaf tea helps diarrhea",
+      "🍽 Good for digestion"
+    ],
+    "parts_used": ["Fruit", "Leaves"],
+    "precautions": "✔ Seeds are hard but edible."
+  },
+
+  "Hibiscus": {
+    "short": "🌺 Red flower used in teas and hair care.",
+    "edible": "🍵 Petals used in tea.",
+    "medicinal_uses": [
+      "💓 Helps blood pressure",
+      "💇 Supports hair growth",
+      "❄️ Cooling effect"
+    ],
+    "parts_used": ["Flowers", "Leaves"],
+    "precautions": "⚠️ May interact with BP medicine."
+  },
+
+  "Jasmine": {
+    "short": "🌸 Strongly fragrant flower used in tea.",
+    "edible": "🍵 Flowers flavor teas and desserts.",
+    "medicinal_uses": [
+      "😌 Reduces stress",
+      "😴 Helps with sleep",
+      "🧘 Used in aromatherapy"
+    ],
+    "parts_used": ["Flowers"],
+    "precautions": "⚠️ Possible fragrance allergies."
+  },
+
+  "Lemon": {
+    "short": "🍋 Citrus fruit rich in vitamin C.",
+    "edible": "🥤 Juice, pulp, peel.",
+    "medicinal_uses": [
+      "🛡 Boosts immunity",
+      "🍽 Helps digestion",
+      "✨ Skin brightening"
+    ],
+    "parts_used": ["Fruit", "Peel", "Leaves"],
+    "precautions": "⚠️ Acidic — may irritate ulcers."
+  },
+
+  "Lemon_grass": {
+    "short": "🌾 Aromatic grass used in tea and Thai cooking.",
+    "edible": "🍵 Used in teas, soups.",
+    "medicinal_uses": [
+      "🔥 Helps digestion",
+      "😌 Reduces stress",
+      "🌿 Mild anti-inflammatory"
+    ],
+    "parts_used": ["Leaves", "Stalks"],
+    "precautions": "✔ Safe in food amounts."
+  },
+
+  "Mango": {
+    "short": "🥭 Popular tropical fruit tree.",
+    "edible": "🍴 Raw and ripe fruit.",
+    "medicinal_uses": [
+      "🫀 Good for skin and immunity",
+      "🍽 Aids digestion",
+      "🌿 Leaves used traditionally"
+    ],
+    "parts_used": ["Fruit", "Leaves", "Bark"],
+    "precautions": "⚠️ Sap can cause skin irritation."
+  },
+
+  "Mint": {
+    "short": "🌿 Cooling herb used in cooking and medicine.",
+    "edible": "🥗 Leaves eaten fresh or dried.",
+    "medicinal_uses": [
+      "🍃 Helps digestion",
+      "🤢 Relieves nausea",
+      "🌬 Clears nasal congestion"
+    ],
+    "parts_used": ["Leaves"],
+    "precautions": "⚠️ May cause heartburn in excess."
+  },
+
+  "Neem": {
+    "short": "🌿 Strong antibacterial medicinal tree.",
+    "edible": "😖 Leaves are bitter; used medicinally.",
+    "medicinal_uses": [
+      "🧴 Treats acne & skin infections",
+      "🛡 Antibacterial & antifungal",
+      "🦟 Natural insect repellent"
+    ],
+    "parts_used": ["Leaves", "Bark", "Oil", "Seeds"],
+    "precautions": "⚠️ Avoid internal use in high doses."
+  },
+
+  "Pappaya": {
+    "short": "🥭 Papaya — fruit rich in papain enzyme.",
+    "edible": "🍈 Ripe and raw fruit.",
+    "medicinal_uses": [
+      "🍽 Helps digestion",
+      "🩸 Leaves used to support platelets",
+      "✨ Good for skin"
+    ],
+    "parts_used": ["Fruit", "Seeds", "Leaves"],
+    "precautions": "⚠️ Unripe papaya contains latex."
+  },
+
+  "Pepper": {
+    "short": "🌶 Vine producing black pepper spice.",
+    "edible": "🧂 Peppercorns used in cooking.",
+    "medicinal_uses": [
+      "🔥 Boosts metabolism",
+      "🍽 Supports digestion",
+      "🧪 Enhances absorption of nutrients"
+    ],
+    "parts_used": ["Fruits (peppercorns)"],
+    "precautions": "⚠️ Spicy — may irritate stomach."
+  },
+
+  "Pomegranate": {
+    "short": "🍎 Fruit rich in antioxidants.",
+    "edible": "❤️ Seeds and juice.",
+    "medicinal_uses": [
+      "🫀 Supports heart health",
+      "🩸 Improves blood flow",
+      "✨ Good for skin"
+    ],
+    "parts_used": ["Seeds", "Juice", "Peel"],
+    "precautions": "✔ Safe; juice is sugary."
+  },
+
+  "Rose": {
+    "short": "🌹 Aromatic flower used in food and beauty.",
+    "edible": "🍯 Petals used in gulkand, syrups, teas.",
+    "medicinal_uses": [
+      "❄️ Cools the body",
+      "😌 Reduces stress",
+      "✨ Rosehip is rich in vitamin C"
+    ],
+    "parts_used": ["Petals", "Rose water", "Rose hips"],
+    "precautions": "⚠️ Possible fragrance sensitivity."
+  },
+
+  "Tulasi": {
+    "short": "🌿 Holy basil — sacred medicinal herb.",
+    "edible": "🍃 Leaves taken raw or in tea.",
+    "medicinal_uses": [
+      "🛡 Boosts immunity",
+      "🤧 Relieves cold & cough",
+      "😌 Reduces stress"
+    ],
+    "parts_used": ["Leaves", "Seeds", "Oil"],
+    "precautions": "✔ Safe; avoid excessive medicinal doses in pregnancy."
+  }
+}
